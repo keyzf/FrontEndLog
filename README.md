@@ -1,6 +1,10 @@
 # frontEndLog
 ## 前端错误日志监控
 
+<div align=center>
+  <img src="./logo.png">
+</div>
+
 主要功能：catch项目中的代码错误和请求接口错误，可以查看错误信息，错误统计，图表展示等功能；
 
 错误记录插件：Hzq
